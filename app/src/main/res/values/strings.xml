@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">LocatonBlueToothDemo</string>
+    <string name="plese_enter_web_url">Please Enter Web URL</string>
+    <string name="location_already_being_send">Location_Already_Being_Send</string>
+    <string name="enter_web_url">Enter Web URL</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
 </resources>
